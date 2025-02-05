@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm Hossam Al-Maraghy!<br>I'm a Junior Flutter Developer with a year of experience in building mobile and web applications. I’m passionate about creating user-friendly solutions using Flutter & Dart for both iOS and Android.<br><br>I specialize in:<br><br>Mobile app development<br>Web app development<br>API integration<br>Debugging and code optimization<br>I enjoy collaborating on projects and always aim to deliver efficient, user-focused solutions. Let’s connect if you’re looking for a developer with fresh ideas!
+Hi, I'm Hossam Al-Maraghy!<br>I'm a Junior Flutter Developer with a year of experience in building mobile and web applications. I’m passionate about creating user-friendly solutions using Flutter & Dart for both iOS and Android.<br><br>I specialize in:<br><br>Mobile app development<br>Web app development<br>API integration<br>Debugging and code optimization<br>I enjoy collaborating on projects and always aim to deliver efficient, user-focused solutions. Let’s connect if you’re looking for a developer with fresh ideas!
 
 
 ## 🌐 Socials:
